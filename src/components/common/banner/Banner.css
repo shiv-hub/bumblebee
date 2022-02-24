@@ -1,0 +1,7 @@
+.Banner-layout {
+  height: 90vh;
+  width: 100%;
+  background-image: url("assets/svgs/banner-wave-2.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
