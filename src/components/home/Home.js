@@ -1,13 +1,14 @@
-import React from 'react'
-import Button from '@mui/material/Button';
-import Banner from 'components/common/banner/Banner';
+import React from "react";
+import Button from "@mui/material/Button";
+import Banner from "components/common/banner/Banner";
 
- function Home() {
+function Home() {
   return (
     <div>
-      <Banner/>
+      Home
+      <Banner />
       <Button variant="contained">Contained</Button>
     </div>
-  )
+  );
 }
 export default Home;
